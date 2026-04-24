@@ -1,4 +1,4 @@
-# Syntecxhub_Credit-Card_Fraud_Detection
+# Credit-Card_Fraud_Detection
 project 2 - Week 3
 # 💳 Credit Card Fraud Detection Project
 
